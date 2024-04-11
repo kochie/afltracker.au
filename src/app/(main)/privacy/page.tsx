@@ -34,7 +34,7 @@ const PrivacyPolicy = () => {
       <p className="mb-4">The crash analytics data collected through Sentry.io is used for the following purposes:</p>
       <ul className="list-disc list-inside mb-4">
         <li>Identifying and fixing bugs</li>
-        <li>Enhancing the app's performance and reliability</li>
+        <li>Enhancing the app&apos;s performance and reliability</li>
         <li>Ensuring compatibility with various devices and operating systems</li>
       </ul>
 
